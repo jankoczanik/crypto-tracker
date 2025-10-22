@@ -19,7 +19,7 @@ class Graph:
 
             plt.plot(monthly_dates, monthly_prices, label=crypto.name)
 
-        plt.title("Crypto Performance Over Last Year")
+        plt.title("Results of investing $100 1 year ago")
         plt.xlabel("Date")
         plt.ylabel("Price in USD")
         plt.legend()
