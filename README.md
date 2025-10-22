@@ -36,4 +36,4 @@ Developed by [Janko](https://github.com/jankoczanik)
 
 ## Credits:
 
-- Crypto data sourced from [https://www.coingecko.com/en/api](CoinGecko API)
+- Crypto data sourced from [CoinGecko API](https://www.coingecko.com/en/api)
