@@ -33,3 +33,7 @@ Developed by [Janko](https://github.com/jankoczanik)
 `python main.py`
 
 5. Interact with the automatically generated graph
+
+## Credits:
+
+- Crypto data sourced from [https://www.coingecko.com/en/api](CoinGecko API)
